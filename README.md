@@ -1,5 +1,7 @@
 # break-donejs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/donejs/break-donejs.svg)](https://greenkeeper.io/)
+
 Welcome to the break-donejs DoneJS application!
 
 ## Getting started

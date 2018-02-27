@@ -1,0 +1,3 @@
+something "fooo";
+
+module.exports = {};

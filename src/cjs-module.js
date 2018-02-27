@@ -1,3 +1,3 @@
-something "fooo";
+//something "fooo";
 
 module.exports = {};

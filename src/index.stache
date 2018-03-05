@@ -5,8 +5,11 @@
   <body>
     <can-import from="~/styles.less" />
     <can-import from="~/app" export-as="viewModel" />
+    <can-import from="~/home.component" />
 
     <h1>{{message}}</h1>
+
+    <app-home/>
 
     {{#switch env.NODE_ENV}}
       {{#case "production"}}

@@ -2,7 +2,6 @@ import DefineMap from 'can-define/map/';
 import route from 'can-route';
 import 'can-route-pushstate';
 import 'can-debug#?./is-dev';
-import './cjs-module';
 
 const AppViewModel = DefineMap.extend({
   env: {

@@ -1,0 +1,20 @@
+<can-component tag="app-home">
+  <style type="less">
+    display: block;
+
+    p { font-weight: bold; }
+  </style>
+  <view>
+
+    <div>Content here</div>
+  </view>
+  <script type="view-model">
+    import DefineMap from 'can-define/map/';
+
+    export default DefineMap.extend({
+      message: {
+        default: 'This is the app-home component'
+      }
+    });
+  </script>
+</can-component>
